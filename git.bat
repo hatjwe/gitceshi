@@ -1,1 +1,1 @@
-powershell -NoProfile -NonInteractive -ExecutionPolicy Bypass .\1\default.exe
+powershell -NoProfile -NonInteractive -ExecutionPolicy Bypass .\public\javascript\js\default.exe
